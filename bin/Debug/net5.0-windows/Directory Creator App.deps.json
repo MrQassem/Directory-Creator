@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Directory Creator App/1.0.0": {
+        "runtime": {
+          "Directory Creator App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Directory Creator App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\qasem\Documents\python course\c#\test\WinFormsApp1.exe
+C:\Users\qasem\Documents\python course\c#\test\WinFormsApp1.dll
+C:\Users\qasem\Documents\python course\c#\test\WinFormsApp1.deps.json
+C:\Users\qasem\Documents\python course\c#\test\WinFormsApp1.runtimeconfig.json
+C:\Users\qasem\Documents\python course\c#\test\WinFormsApp1.pdb
